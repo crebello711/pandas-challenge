@@ -9,12 +9,12 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 *Hint:** Check out a [sample solution](PyCitySchools/PyCitySchools_starter.ipynb) to review the challenge.
 
 ##Below Summary data can be found in the sample solution
-### District Summary
-### School Summary
-### Highest-Performing Schools (by % Overall Passing)
-### Lowest-Performing Schools (by % Overall Passing)
-### Math Scores by Grade
-### Reading Scores by Grade
-### Scores by School Spending
-### Scores by School Size
-### Scores by School Type
+District Summary
+School Summary
+Highest-Performing Schools (by % Overall Passing)
+Lowest-Performing Schools (by % Overall Passing)
+Math Scores by Grade
+Reading Scores by Grade
+Scores by School Spending
+Scores by School Size
+Scores by School Type
